@@ -1,3 +1,7 @@
+'''
+Write a Python program that takes a graph as input from the user and write the graph inputs in a file named "Input_graph".  Read the file and print all the edges (u,v) of the graph.
+'''
+
 def write_graph_to_file():
     filename = "Input_graph.txt"
     
