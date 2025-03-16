@@ -1,3 +1,8 @@
+'''
+Write a program in Python to implement the A* search algorithm. The program will show the path from source to destination
+ along with the f(n) value of each node on the path; where f(n) = g(n) + h(n).  [ Use the graph written in the "Input_graph" file as input.]
+'''
+
 import heapq
 
 def read_graph():
